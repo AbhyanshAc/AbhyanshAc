@@ -2,6 +2,7 @@
 I'm a hobbyist developer who prefers to keep my work private
 
 I've developed a simple app and published it, just trying out my first app and getting experience
+                                        [Smart Camera]
 - https://play.google.com/store/apps/details?id=com.gmail.omsjsr.smartcameram 
 
 I'm developing a more highly advanced app.
